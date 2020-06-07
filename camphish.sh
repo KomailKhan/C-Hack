@@ -1,7 +1,7 @@
 #!/bin/bash
-# CamPhish v1.0
-# Powered by TechChip
-# Credits goes to thelinuxchoice [github.com/thelinuxchoice/]
+# CamHack v1.0 #Komail
+# Powered by Freaked Dude
+# Credits goes to Freaked-Dude [github.com/FreakedDude
 
 trap 'printf "\n";stop' 2
 
@@ -14,8 +14,8 @@ printf "\033[1;91m██║░░╚═╝  █████╗ ████�
 printf "\033[1;91m██║░░██╗  ╚════╝ ██╔══██║██╔══██║██║░░██╗██╔═██╗░\e[0m\n"
 printf "\033[1;91m╚█████╔╝  ░░░░░░ ██║░░██║██║░░██║╚█████╔╝██║░╚██╗\e[0m\n"
 printf "\033[1;91m░╚════╝░  ░░░░░░ ╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝\e[0m\n\n"
-printf "\033[1;91m                     WhatsApp: +923124788959\e[0m\n\n"
-printf " \e[1;77m YouTube | https://www.youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ\e[0m \n"
+printf "\033[1;91m               WhatsApp: +923124788959\e[0m\n\n"
+printf " \e[1;77m YouTube | youtube.com/channel/UCDJbhYSPToi1-CdzGLEzAIQ\e[0m \n"
 
 printf "\n"
 
