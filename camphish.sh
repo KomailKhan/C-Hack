@@ -1,22 +1,21 @@
 #!/bin/bash
 # CamPhish v1.0
-# Powered by TechChip
-# Credits goes to thelinuxchoice [github.com/thelinuxchoice/]
+# Powered by KomailKhan
+# Credits goes to Freaked Dude [github.com/Freaked-Dude/]
 
 trap 'printf "\n";stop' 2
 
 banner() {
 clear
-printf "\e[1;92m  _______  _______  _______  \e[0m\e[1;77m_______          _________ _______          \e[0m\n"
-printf "\e[1;92m (  ____ \(  ___  )(       )\e[0m\e[1;77m(  ____ )|\     /|\__   __/(  ____ \|\     /|\e[0m\n"
-printf "\e[1;92m | (    \/| (   ) || () () |\e[0m\e[1;77m| (    )|| )   ( |   ) (   | (    \/| )   ( |\e[0m\n"
-printf "\e[1;92m | |      | (___) || || || |\e[0m\e[1;77m| (____)|| (___) |   | |   | (_____ | (___) |\e[0m\n"
-printf "\e[1;92m | |      |  ___  || |(_)| |\e[0m\e[1;77m|  _____)|  ___  |   | |   (_____  )|  ___  |\e[0m\n"
-printf "\e[1;92m | |      | (   ) || |   | |\e[0m\e[1;77m| (      | (   ) |   | |         ) || (   ) |\e[0m\n"
-printf "\e[1;92m | (____/\| )   ( || )   ( |\e[0m\e[1;77m| )      | )   ( |___) (___/\____) || )   ( |\e[0m\n"
-printf "\e[1;92m (_______/|/     \||/     \|\e[0m\e[1;77m|/       |/     \|\_______/\_______)|/     \|\e[0m\n\n"
+printf "\033[1;91m░█████╗░  ░░░░░░ ██╗░░██╗░█████╗░░█████╗░██╗░░██╗\e[0m\n"
+printf "\033[1;92m██╔══██╗  ░░░░░░ ██║░░██║██╔══██╗██╔══██╗██║░██╔╝\e[0m\n"
+printf "\033[1;93m██║░░╚═╝  █████╗ ███████║███████║██║░░╚═╝█████═╝░\e[0m\n"
+printf "\033[1;95m██║░░██╗  ╚════╝ ██╔══██║██╔══██║██║░░██╗██╔═██╗░\e[0m\n"
+printf "\033[1;96m╚█████╔╝  ░░░░░░ ██║░░██║██║░░██║╚█████╔╝██║░╚██╗\e[0m\n"
+printf "\033[1;97m░╚════╝░  ░░░░░░ ╚═╝░░╚═╝╚═╝░░╚═╝░╚════╝░╚═╝░░╚═╝\e[0m\n"
+printf "\033[1;95m                     WhatsApp: +923124788959              \e[0m\n\n"
 
-printf " \e[1;77m Youtube |  Youtube.com/UCDJbhYSPToi1-CdzGLEzAIQ\e[0m \n"
+printf "\033[1;95m Youtube |  Youtube.com/UCDJbhYSPToi1-CdzGLEzAIQ\e[0m\n"
 
 printf "\n"
 
