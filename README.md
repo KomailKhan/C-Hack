@@ -8,11 +8,7 @@
 
 ~apt upgrade
 
-~apt-get -y install php
-
-~apt-get -y install openssh
-
-~apt-get -y install git
+~apt-get -y install php openssh git
 
 ~pkg install wget
 
